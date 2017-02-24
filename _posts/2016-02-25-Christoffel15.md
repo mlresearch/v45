@@ -38,6 +38,6 @@ issued:
   - 2016
   - 2
   - 25
-pdf: http://proceedings.mlr.press/v45/Christoffel15/Christoffel15.pdf
+pdf: http://proceedings.mlr.press/v45/Christoffel15.pdf
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
