@@ -1,0 +1,48 @@
+---
+booktitle: Asian Conference on Machine Learning
+volume: 45
+year: '2015'
+shortname: ACML
+start: 2015-11-20
+end: 2015-11-22
+published: 2016-02-25
+sections:
+- name: preface
+  title: Preface
+- name: default
+  title: Accepted Papers
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: ACML2015
+month: 0
+abstract: ''
+editor:
+- given: Geoffrey
+  family: Holmes
+- given: Tie-Yan
+  family: Liu
+title: Asian Conference on Machine Learning
+email: ''
+description: Asian Conference on Machine Learning, Hong Kong
+url: http://proceedings.mlr.press
+baseurl: "/v45"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v45
+conference:
+  name: Asian Conference on Machine Learning
+  url: http://acml-conf.org/2015/
+  location: Hong Kong
+  dates:
+  - 2015-11-20
+  - 2015-11-21
+  - 2015-11-22
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v45.bib
