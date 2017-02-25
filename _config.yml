@@ -36,6 +36,7 @@ description: |
   Series Editors:
     Neil D. Lawrence
     Mark Reid
+date_str: 20--22 Nov
 url: http://proceedings.mlr.press
 baseurl: "/v45"
 twitter_username: mlresearch
@@ -45,6 +46,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v45
+bibtex_copy: true
 email: ''
 conference:
   name: Asian Conference on Machine Learning
