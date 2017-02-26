@@ -20,7 +20,8 @@ tex_title: Class-prior Estimation for Learning from Positive and Unlabeled Data
 firstpage: 221
 lastpage: 236
 page: 221-236
-sections: 
+order: 221
+cycles: false
 author:
 - given: Marthinus
   family: Christoffel
