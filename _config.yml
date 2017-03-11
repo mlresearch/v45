@@ -1,5 +1,5 @@
 ---
-booktitle: Asian Conference on Machine Learning
+booktitle: Proceedings of The 7th Asian Conference on Machine Learning
 volume: 45
 year: '2015'
 shortname: ACML
@@ -23,7 +23,7 @@ editor:
   family: Liu
 title: Proceedings of Machine Learning Research
 description: |
-  Asian Conference on Machine Learning
+  Proceedings of The 7th Asian Conference on Machine Learning
     Held in Hong Kong on 20-22 November 2015
 
   Published as Volume 45 by the Proceedings of Machine Learning Research on 25 February 2016.
@@ -61,6 +61,7 @@ conference:
   - 2015-11-20
   - 2015-11-21
   - 2015-11-22
+  number: 7
 analytics:
   google:
     tracking_id: UA-92432422-1
